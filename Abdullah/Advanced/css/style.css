@@ -1,0 +1,30 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/abdal\/OneDrive\/Desktop\/full\%20stack\/day21\/FSWD80-Bootstrap-Day02-Robert-Abdullah\/Advanced\/css\/style\.scss}line{font-family:\000039}}
+.nav-tabs--vertical {
+  border-bottom: none !important;
+  border-right: 1px solid #f0ad4e;
+  display: flex;
+  flex-flow: column nowrap; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/abdal\/OneDrive\/Desktop\/full\%20stack\/day21\/FSWD80-Bootstrap-Day02-Robert-Abdullah\/Advanced\/css\/style\.scss}line{font-family:\0000316}}
+.nav-tabs--left {
+  margin: 0 15px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/abdal\/OneDrive\/Desktop\/full\%20stack\/day21\/FSWD80-Bootstrap-Day02-Robert-Abdullah\/Advanced\/css\/style\.scss}line{font-family:\0000320}}
+  .nav-tabs--left .nav-item + .nav-item {
+    margin-top: .25rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/abdal\/OneDrive\/Desktop\/full\%20stack\/day21\/FSWD80-Bootstrap-Day02-Robert-Abdullah\/Advanced\/css\/style\.scss}line{font-family:\0000324}}
+  .nav-tabs--left .nav-link {
+    background-color: black; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/abdal\/OneDrive\/Desktop\/full\%20stack\/day21\/FSWD80-Bootstrap-Day02-Robert-Abdullah\/Advanced\/css\/style\.scss}line{font-family:\0000331}}
+  .nav-tabs--left .nav-link.active {
+    background-color: black !important;
+    border-color: #f0ad4e black #f0ad4e #f0ad4e !important;
+    border-bottom-color: #f0ad4e;
+    border-right-color: black;
+    border-bottom-left-radius: 0.25rem;
+    border-top-right-radius: 0;
+    margin-right: -1px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/abdal\/OneDrive\/Desktop\/full\%20stack\/day21\/FSWD80-Bootstrap-Day02-Robert-Abdullah\/Advanced\/css\/style\.scss}line{font-family:\0000342}}
+    .nav-tabs--left .nav-link.active:hover {
+      background-color: black;
+      border-color: #f0ad4e black #f0ad4e #f0ad4e; }
+
+/*# sourceMappingURL=style.css.map */
